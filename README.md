@@ -75,5 +75,5 @@ credit-risk-prediction-app/
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+link-- https://credit-risk-prediction-app-vfbbyqfxs6kviaisythpda.streamlit.app/
 
